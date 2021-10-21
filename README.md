@@ -1,9 +1,13 @@
 # oxidized-cpp
-### Rust style typedefs and literals for C++
+#### Rust style typedefs and literals for C++
 
-## Usage :-
+### Usage :-
 ```cpp
+// Include the header
 #include "oxidize.h"
+
+// Someone write examples
 ```
 
-### Note: Use `-Wno-literal-suffix` compiler flag to turn off warnings about oxidation.
+### Note :-
+#### Use `-Wno-literal-suffix` compiler flag to turn off warnings about oxidation.
